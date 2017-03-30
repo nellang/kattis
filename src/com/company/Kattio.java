@@ -1,4 +1,5 @@
-package com.company;
+package kattis;
+
 /** Simple yet moderately fast I/O routines.
  *
  * Example usage:
@@ -66,8 +67,6 @@ class Kattio extends PrintWriter {
     public String getWord() {
         return nextToken();
     }
-
-
 
     private BufferedReader r;
     private String line;
