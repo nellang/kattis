@@ -1,4 +1,4 @@
-package kattis;
+package com.company;
 
 public class Pivot2 {
 

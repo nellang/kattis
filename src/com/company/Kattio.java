@@ -1,4 +1,4 @@
-package kattis;
+package com.company;
 
 /** Simple yet moderately fast I/O routines.
  *
